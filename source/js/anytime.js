@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*****************************************************************************
  *  FILE:  anytime.js - The Any+Time(TM) JavaScript Library (source)
  *

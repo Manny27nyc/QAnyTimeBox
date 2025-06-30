@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*****************************************************************************
  *  FILE:  anytimetz.js - The Any+Time(TM) JavaScript Library
  *                        Basic Time Zone Support (source)

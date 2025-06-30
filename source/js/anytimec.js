@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* anytimec.js 4.1112B (anytime.js 4.1112B
 Copyright 2008-2010 Andrew M. Andrews III (www.AMA3.com). Some Rights 
 Reserved. This work licensed under the Creative Commons Attribution-
